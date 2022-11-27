@@ -44,7 +44,7 @@ def main(speed=0, bg_color="grey"):
             snowflake_branch(size, myTurtle)
             myTurtle.left(45)
 
-    turtle.Screen().exitonclick()
+    turtle_screen.exitonclick()
 
 
 def snowflake_branch(size, myTurtle):
