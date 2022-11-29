@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='DSSS-Homework-5',
     version='1.0.0',
-    packages=[''],
+    packages=['snowflake', 'let_it_snow'],
     url='https://github.com/jmarrerof/DSSS-Homework-5',
     license='Apache license 2.0',
     author='Judith Marrero Ferrera',
