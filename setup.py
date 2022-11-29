@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='DSSS-Homework-5',
+    name='snowflake',
     version='1.0.0',
     packages=['snowflake'],
     url='https://github.com/jmarrerof/DSSS-Homework-5',
